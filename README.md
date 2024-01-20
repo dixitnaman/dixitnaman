@@ -13,6 +13,7 @@
 <a href="https://www.behance.net/https://www.behance.net/namandixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/namandixit" height="30" width="40" /></a>
 <a href="https://medium.com/@naman-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naman-dixit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/itsnemoprod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/itsnemoprod" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/naman1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/naman1306" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
