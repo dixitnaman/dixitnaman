@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Dixit</h1>
 <h3 align="center">A Creative Frontend Developer and GFX Designer from India</h3>
 
-- 💬 Ask me about **UI designing and GFX Designing**
+- 💬 Ask me about **Frontend/UI designing and GFX Designing**
 
 - 📫 How to reach me **namandixit518@gmail.com**
 
