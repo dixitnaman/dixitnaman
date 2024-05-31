@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_its_nemo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_its_nemo_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/itsnemo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itsnemo/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its.nemo.art/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its.nemo.art/" height="30" width="40" /></a>
 <a href="https://www.behance.net/namandixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/namandixit" height="30" width="40" /></a>
